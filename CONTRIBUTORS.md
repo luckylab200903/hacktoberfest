@@ -631,6 +631,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Linux System Administrator
 - GitHub: [met3or](https://github.com/met3or)
 
+#### Name: [Keshav Kumar Singh](https://github.com/luckylab200903)
+- Place: Gwalior(Madhya Pradesh), India
+- Bio: Web Developer ,Machine Learning,Data analysis,C++,Java ,Python,C
+- Github: [luckylab200903](https://github.com/luckylab200903)
+
 #### Name: [Dawid Lipinski](https://github.com/lip3k)
 - Place: High Wycombe, UK
 - Bio: Self-taught Web developer
